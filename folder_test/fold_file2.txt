@@ -1,0 +1,3 @@
+this is the second file i put in folder folder_test
+
+gonna try merge then pull 
