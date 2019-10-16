@@ -1,0 +1,3 @@
+this file should have the path 
+
+/Desktop/project2/folder_test/fold_file1.txt
