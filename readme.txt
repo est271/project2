@@ -1,4 +1,2 @@
-this is a test file with
-two (2) lines inside
-third line added
-fourth line added, will attemp direct commit -a
+This is a repository I created in order to continue
+testing commands and features for git and github
