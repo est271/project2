@@ -2,3 +2,4 @@ first-after commit
 second
 third
 fourth
+~`!\|?<>":;{}[]&^%$
